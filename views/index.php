@@ -7,8 +7,8 @@
 <body>
     <h1>Easy PHP-App</h1>
     <ul>
-        <li><a href="index.php?page=user-list">User List</a></li>
-        <li><a href="index.php?page=advertisement-list">Advertisement List</a></li>
+        <li><a href="user-list.php">User List</a></li>
+        <li><a href="advertisement-list.php">Advertisement List</a></li>
     </ul>
 </body>
 </html>
